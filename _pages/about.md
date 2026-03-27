@@ -10,4 +10,4 @@ Hi, I am Caleb Jerinic-Brodeur, a fourth-year Ph.D. candidate in the Department 
 
 I am a cognitive neuroscientist conducting research at the intersection of memory and cognitive control. I study how individuals intentionally control unwanted emotional memories, why memory control fails, and how we can improve the ability to regulate unwanted emotional experiences. I use a combination of novel behavioral paradigms, functional neuroimaging, machine learning, and closed-loop neurofeedback to accomplish these goals. I conduct basic science research, but am strongly motivated by the translational potential of my research and its potential to improve mental health.
 
-In my free time, I enjoy going to concerts, spending time outdoors, collecting vinyl, and reading thriller novels.
+In my free time, I enjoy going to concerts, running, collecting vinyl, and reading thriller novels.
