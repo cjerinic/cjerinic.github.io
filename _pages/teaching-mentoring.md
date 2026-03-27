@@ -27,14 +27,8 @@ Courses Taught as a Teaching Assistant
 
 Cognitive Neuroscience — Fall 2025
 
-Advanced Data Analysis and Methods for the Behavioral Sciences — Spring 2025
-
-Advanced Data Analysis and Methods for the Behavioral Sciences — Fall 2024
+Advanced Data Analysis and Methods for the Behavioral Sciences — Fall 2024; Spring 2025
 
 **Arizona State University**
 
-Introduction to Psychology — Spring 2022
-
-Introduction to Psychology — Fall 2021
-
-Introduction to Psychology — Spring 2021
+Introduction to Psychology — Spring 2021; Fall 2021; Spring 2022
