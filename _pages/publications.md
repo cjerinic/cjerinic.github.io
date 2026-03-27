@@ -7,7 +7,7 @@ author_profile: true
 
 Peer-Reviewed Publications
 ======
-**Jerinic-Brodeur, C. N.**, Banich, M. T., & Lewis-Peacock, J. A. (2024). Maintenance suppression reduces the accessibility of visual information in working memory regardless of its normative valence. Frontiers in Cognition, 3, 1487851. [link](https://www.frontiersin.org/journals/cognition/articles/10.3389/fcogn.2024.1487851/full) [pdf](files/Jerinic-Brodeur-et-al-2024-Frontiers-in-Cognition.pdf)
+**Jerinic-Brodeur, C. N.**, Banich, M. T., & Lewis-Peacock, J. A. (2024). Maintenance suppression reduces the accessibility of visual information in working memory regardless of its normative valence. Frontiers in Cognition, 3, 1487851. [link](https://www.frontiersin.org/journals/cognition/articles/10.3389/fcogn.2024.1487851/full) [pdf](/files/Jerinic-Brodeur-et-al-2024-Frontiers-in-Cognition.pdf)
 
 Preprints
 ======
