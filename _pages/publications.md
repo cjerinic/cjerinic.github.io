@@ -11,7 +11,7 @@ Peer-Reviewed Publications
 
 Preprints
 ======
-[^ = equal contribution]
+^ = equal contribution
 Elliott, B.L.^, **Jerinic-Brodeur, C.N.^**, Langley, E.B., Williams, C., & Brewer, G.A. (2025). Value-Directed Memory Encoding Alters Goal-Directed Attention: A Comparison of Encoding Goal-States Using Pupillometry and Thought Probes. Invited revision at *Memory & Cognition* [link](https://osf.io/preprints/psyarxiv/mnwvx_v1)
 
 Submitted & In-Preparation
