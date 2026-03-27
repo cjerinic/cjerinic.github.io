@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Caleb Jerinic-Brodeur | UT Austin"
+title: "Welcome!"
 author_profile: true
 redirect_from:
   - /about/
