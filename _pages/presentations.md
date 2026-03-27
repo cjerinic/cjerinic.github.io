@@ -7,7 +7,7 @@ author_profile: true
 
 Inivited Presentations
 ======
-2025 — *Controlling emotional content in working memory*. Memory & Attention Lab Speaker Series (PI: Tim Ricker, PhD), University of South Dakota.
+*Controlling emotional content in working memory* (Nov. 2025). Memory & Attention Lab Speaker Series (PI: Tim Ricker, PhD), University of South Dakota.
 
 Conference Presentations (Talks)
 ======
