@@ -23,7 +23,7 @@ Student Feedback
 
 Courses Taught as a Teaching Assistant
 ======
-<u>**University of Texas at Austin**</u>
+<span style="text-decoration: underline;">**University of Texas at Austin**</span>
 
 Cognitive Neuroscience — Fall 2025
 
@@ -31,7 +31,7 @@ Advanced Data Analysis and Methods for the Behavioral Sciences — Spring 2025
 
 Advanced Data Analysis and Methods for the Behavioral Sciences — Fall 2024
 
-<u>**Arizona State University**</u>
+<span style="text-decoration: underline;">**Arizona State University**</span>
 
 Introduction to Psychology — Spring 2022
 
