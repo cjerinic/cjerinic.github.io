@@ -17,4 +17,4 @@ Elliott, B.L.^, **Jerinic-Brodeur, C.N.^**, Langley, E.B., Williams, C., & Brewe
 
 Submitted & In-Preparation
 ======
-**Jerinic-Brodeur, C.N.**, Dunsmoor, J.E., & Lewis-Peacock, J.A. (under review). Maintenance suppression is robust to information associated with threat. Under review at *Emotion*
+**Jerinic-Brodeur, C.N.**, Dunsmoor, J.E., & Lewis-Peacock, J.A. (in prep). Maintenance suppression is robust to information associated with threat.
