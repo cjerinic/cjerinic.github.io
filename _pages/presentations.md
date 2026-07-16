@@ -12,7 +12,9 @@ Inivited Presentations
 Conference Presentations (Talks)
 ======
 
-Bretton, Z., **Jerinic-Brodeur, C.N.**, Rowlands, M., Sahakyan, L., Anderson, M.C., & Lewis-Peacock, J.A. (2024). Maintenance suppression shares processes with retrieval suppression that may help purge memory intrusions. Working Memory Symposium, Virtual.
+**Jerinic-Brodeur, C.N.**, Bretton, Z., Rowlands, M., Sahakyan, L., Anderson, M.C., & Lewis-Peacock, J.A. (2026). *Flexible control of intrusive thoughts depends on multiple inhibitory mechanisms*. Working Memory Symposium, Virtual.
+
+Bretton, Z., **Jerinic-Brodeur, C.N.**, Rowlands, M., Sahakyan, L., Anderson, M.C., & Lewis-Peacock, J.A. (2024). *Maintenance suppression shares processes with retrieval suppression that may help purge memory intrusions*. Working Memory Symposium, Virtual.
 
 **Jerinic-Brodeur, C.N.**, Banich, M.T., & Lewis-Peacock, J.A. (2023). *Impacts of Emotion on Maintenance Suppression*. Talk presented at the Dallas & Austin Area Memory Meeting, Dallas, TX.
 
