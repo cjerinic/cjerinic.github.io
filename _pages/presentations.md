@@ -12,7 +12,7 @@ Inivited Presentations
 Conference Presentations (Talks)
 ======
 
-**Jerinic-Brodeur, C.N.**, Bretton, Z., Rowlands, M., Sahakyan, L., Anderson, M.C., & Lewis-Peacock, J.A. (2026). *Flexible control of intrusive thoughts depends on multiple inhibitory mechanisms*. Dallas and Austin Area Memory Meeting, Dallas, TX.
+**Jerinic-Brodeur, C.N.**, Bretton, Z., Rowlands, M., Sahakyan, L., Anderson, M.C., & Lewis-Peacock, J.A. (2026). *Flexible control of intrusive thoughts depends on multiple inhibitory mechanisms*. Dallas & Austin Area Memory Meeting, Dallas, TX.
 
 **Jerinic-Brodeur, C.N.**, Bretton, Z., Rowlands, M., Sahakyan, L., Anderson, M.C., & Lewis-Peacock, J.A. (2026). *Flexible control of intrusive thoughts depends on multiple inhibitory mechanisms*. Working Memory Symposium, Virtual.
 
