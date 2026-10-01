@@ -24,6 +24,8 @@ Bretton, Z., **Jerinic-Brodeur, C.N.**, Rowlands, M., Sahakyan, L., Anderson, M.
 
 Conference Presentations (Posters)
 ======
+**Jerinic-Brodeur, C.N.**, Banich, M.T., & Lewis-Peacock, J.A. (2026). *Toward real-time neurofeedback for the suppression of unwanted working memories*. Real-time Functional Imaging and Neurofeedback, Geneva, Switzerland. [pdf]({{ "/files/JerinicBrodeur-rtFIN-2026.pdf" | relative_url }})
+
 Canright, A.M., **Jerinic-Brodeur, C.N.**, & Lewis-Peacock, J.A. (2026). *Abstract art production enhances the efficiency of cognitive reappraisal*. Cognitive Neuroscience Society, Vancouver, BC. [pdf]({{ "/files/regulart-SfNC-2026.pdf" | relative_url }})
 
 **Jerinic-Brodeur, C.N.**, Bretton, Z., Rowlands, M., Sahakyan, L., Anderson, M.C., & Lewis-Peacock, J.A. (2026). *Failed retrieval stopping elicits suppression of working memory content*. Cognitive Neuroscience Society, Vancouver, BC. [pdf]({{ "/files/JerinicBrodeur-CNS-2026.pdf" | relative_url }})
