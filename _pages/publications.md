@@ -17,4 +17,4 @@ Submitted & In-Preparation
 
 **Jerinic-Brodeur, C.N.^**, Elliott, B.L.^, Langley, E.B., Williams, C., & Brewer, G.A. (under review). Value-Directed Memory Encoding Alters Goal-Directed Attention: A Comparison of Encoding Goal-States Using Pupillometry and Thought Probes. Invited revision at *Memory & Cognition* [link](https://osf.io/preprints/psyarxiv/mnwvx_v1)
 
-Sutton, V., Williams, C., Elliott, B.L., **Jerinic-Brodeur, C.N.**, & Brewer, G.A. (in prep). Attentional Prioritization in Value-Directed Remembering: Evidence from Eye-Blink Dynamics.
+Sutton, V., Williams, C., Elliott, B.L., **Jerinic-Brodeur, C.N.**, & Brewer, G.A. (under review). Attentional Prioritization in Eye-Blinks: Evidence from Value-Directed Remembering.
