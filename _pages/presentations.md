@@ -25,7 +25,7 @@ Bretton, Z., **Jerinic-Brodeur, C.N.**, Rowlands, M., Sahakyan, L., Anderson, M.
 
 Conference Presentations (Posters)
 ======
-**Jerinic-Brodeur, C.N.**, Bretton, Z., Rowlands, M., Sahakyan, L., Anderson, M.C., & Lewis-Peacock, J.A. (2026). *Flexible control of intrusive thoughts depends on multiple inhibitory mechanisms*. Society for Neuroscience, Washington, D.C.
+**Jerinic-Brodeur, C.N.**, Bretton, Z., Rowlands, M., Sahakyan, L., Anderson, M.C., & Lewis-Peacock, J.A. (2026). *Flexible control of intrusive thoughts depends on multiple inhibitory mechanisms*. Society for Neuroscience, Washington, D.C. [pdf]({{ "/files/JerinicBrodeur-SfN-2026.pdf" | relative_url }})
 
 **Jerinic-Brodeur, C.N.**, Banich, M.T., & Lewis-Peacock, J.A. (2026). *Toward real-time neurofeedback for the suppression of unwanted working memories*. Real-time Functional Imaging and Neurofeedback, Geneva, Switzerland. [pdf]({{ "/files/JerinicBrodeur-rtFIN-2026.pdf" | relative_url }})
 
